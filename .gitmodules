@@ -1,0 +1,6 @@
+[submodule "student_pannel"]
+	path = student_pannel
+	url = https://github.com/SOMKUVAR/student_panel.git
+[submodule "admin_pannel"]
+	path = admin_pannel
+	url = https://github.com/SOMKUVAR/admin_panel.git
