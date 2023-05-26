@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+There are two different websites under this system that consists of two different 
+landing pages : admin landing page and student landing page.The admin landing 
+page will have have the option to login as a admin or as a super admin and this 
+will redirect them to their particular windows. 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This repository also consists contract for the marksheet.
