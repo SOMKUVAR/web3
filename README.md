@@ -8,6 +8,7 @@ This repository also consists contract for the marksheet.
 Steps to install in your system :
 1.Clone the repository in localhost including all submodules/repository inside the main repository.
   Use this command "git clone --recurse-submodules https://github.com/SOMKUVAR/web3.git"
+
 2.run "npm install" in the project and go to all submodules and run the same command.
 
 
